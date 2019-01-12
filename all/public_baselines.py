@@ -106,6 +106,8 @@ temp_diff = []
 # number of common authors
 comm_auth = []
 
+
+
 counter = 0
 for i in range(len(training_set_reduced)):
     source = training_set_reduced[i][0]
